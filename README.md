@@ -1,1 +1,1 @@
-# Mediacl-AI-Assistant
+# Mediacal-AI-Assistant
