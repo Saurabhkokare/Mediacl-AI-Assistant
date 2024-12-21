@@ -1,1 +1,1 @@
-# Mediacal-AI-Assistant
+# Medical-AI-Assistant
